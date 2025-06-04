@@ -11,8 +11,3 @@ Implementação de uma lista duplamente encadeada ordenada (em ordem crescente),
 
 1. Execute a classe `Main.java` para ver a funcionalidade da lista.
 2. Execute `DoublyLinkedListTest.java` (JUnit 5) para rodar os testes automatizados.
-
----
-
-**Exemplo de saída esperada no console ao rodar `Main`:**
-
